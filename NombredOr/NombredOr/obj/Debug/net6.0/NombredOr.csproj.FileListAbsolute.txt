@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\NombredOr\NombredOr\bin\Debug\net6.0\NombredOr.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\NombredOr\NombredOr\bin\Debug\net6.0\NombredOr.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\NombredOr\NombredOr\bin\Debug\net6.0\NombredOr.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\NombredOr\NombredOr\bin\Debug\net6.0\NombredOr.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\NombredOr\NombredOr\bin\Debug\net6.0\NombredOr.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\NombredOr\NombredOr\obj\Debug\net6.0\NombredOr.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\NombredOr\NombredOr\obj\Debug\net6.0\NombredOr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\NombredOr\NombredOr\obj\Debug\net6.0\NombredOr.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\NombredOr\NombredOr\obj\Debug\net6.0\NombredOr.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\NombredOr\NombredOr\obj\Debug\net6.0\NombredOr.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\NombredOr\NombredOr\obj\Debug\net6.0\NombredOr.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\NombredOr\NombredOr\obj\Debug\net6.0\refint\NombredOr.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\NombredOr\NombredOr\obj\Debug\net6.0\NombredOr.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\NombredOr\NombredOr\obj\Debug\net6.0\NombredOr.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\NombredOr\NombredOr\obj\Debug\net6.0\ref\NombredOr.dll

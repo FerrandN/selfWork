@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\cercle\cercle\bin\Debug\net6.0\cercle.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\cercle\cercle\bin\Debug\net6.0\cercle.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\cercle\cercle\bin\Debug\net6.0\cercle.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\cercle\cercle\bin\Debug\net6.0\cercle.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\cercle\cercle\bin\Debug\net6.0\cercle.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\cercle\cercle\obj\Debug\net6.0\cercle.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\cercle\cercle\obj\Debug\net6.0\cercle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\cercle\cercle\obj\Debug\net6.0\cercle.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\cercle\cercle\obj\Debug\net6.0\cercle.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\cercle\cercle\obj\Debug\net6.0\cercle.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\cercle\cercle\obj\Debug\net6.0\cercle.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\cercle\cercle\obj\Debug\net6.0\refint\cercle.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\cercle\cercle\obj\Debug\net6.0\cercle.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\cercle\cercle\obj\Debug\net6.0\cercle.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\cercle\cercle\obj\Debug\net6.0\ref\cercle.dll

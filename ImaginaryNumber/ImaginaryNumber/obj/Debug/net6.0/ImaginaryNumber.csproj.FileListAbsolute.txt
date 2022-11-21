@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\ImaginaryNumber\ImaginaryNumber\bin\Debug\net6.0\ImaginaryNumber.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\ImaginaryNumber\ImaginaryNumber\bin\Debug\net6.0\ImaginaryNumber.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\ImaginaryNumber\ImaginaryNumber\bin\Debug\net6.0\ImaginaryNumber.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\ImaginaryNumber\ImaginaryNumber\bin\Debug\net6.0\ImaginaryNumber.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\ImaginaryNumber\ImaginaryNumber\bin\Debug\net6.0\ImaginaryNumber.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\ImaginaryNumber\ImaginaryNumber\obj\Debug\net6.0\ImaginaryNumber.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\ImaginaryNumber\ImaginaryNumber\obj\Debug\net6.0\ImaginaryNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\ImaginaryNumber\ImaginaryNumber\obj\Debug\net6.0\ImaginaryNumber.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\ImaginaryNumber\ImaginaryNumber\obj\Debug\net6.0\ImaginaryNumber.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\ImaginaryNumber\ImaginaryNumber\obj\Debug\net6.0\ImaginaryNumber.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\ImaginaryNumber\ImaginaryNumber\obj\Debug\net6.0\ImaginaryNumber.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\ImaginaryNumber\ImaginaryNumber\obj\Debug\net6.0\refint\ImaginaryNumber.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\ImaginaryNumber\ImaginaryNumber\obj\Debug\net6.0\ImaginaryNumber.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\ImaginaryNumber\ImaginaryNumber\obj\Debug\net6.0\ImaginaryNumber.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\ImaginaryNumber\ImaginaryNumber\obj\Debug\net6.0\ref\ImaginaryNumber.dll
