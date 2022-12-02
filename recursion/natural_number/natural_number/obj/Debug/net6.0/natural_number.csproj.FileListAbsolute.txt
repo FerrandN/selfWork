@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\natural_number\natural_number\bin\Debug\net6.0\natural_number.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\natural_number\natural_number\bin\Debug\net6.0\natural_number.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\natural_number\natural_number\bin\Debug\net6.0\natural_number.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\natural_number\natural_number\bin\Debug\net6.0\natural_number.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\natural_number\natural_number\bin\Debug\net6.0\natural_number.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\natural_number\natural_number\obj\Debug\net6.0\natural_number.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\natural_number\natural_number\obj\Debug\net6.0\natural_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\natural_number\natural_number\obj\Debug\net6.0\natural_number.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\natural_number\natural_number\obj\Debug\net6.0\natural_number.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\natural_number\natural_number\obj\Debug\net6.0\natural_number.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\natural_number\natural_number\obj\Debug\net6.0\natural_number.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\natural_number\natural_number\obj\Debug\net6.0\refint\natural_number.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\natural_number\natural_number\obj\Debug\net6.0\natural_number.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\natural_number\natural_number\obj\Debug\net6.0\natural_number.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\natural_number\natural_number\obj\Debug\net6.0\ref\natural_number.dll

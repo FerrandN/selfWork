@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\CreateJson\CreateJson\bin\Debug\net6.0\CreateJson.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\CreateJson\CreateJson\bin\Debug\net6.0\CreateJson.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\CreateJson\CreateJson\bin\Debug\net6.0\CreateJson.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\CreateJson\CreateJson\bin\Debug\net6.0\CreateJson.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\CreateJson\CreateJson\bin\Debug\net6.0\CreateJson.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\CreateJson\CreateJson\obj\Debug\net6.0\CreateJson.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\CreateJson\CreateJson\obj\Debug\net6.0\CreateJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\CreateJson\CreateJson\obj\Debug\net6.0\CreateJson.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\CreateJson\CreateJson\obj\Debug\net6.0\CreateJson.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\CreateJson\CreateJson\obj\Debug\net6.0\CreateJson.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\CreateJson\CreateJson\obj\Debug\net6.0\CreateJson.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\CreateJson\CreateJson\obj\Debug\net6.0\refint\CreateJson.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\CreateJson\CreateJson\obj\Debug\net6.0\CreateJson.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\CreateJson\CreateJson\obj\Debug\net6.0\CreateJson.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\CreateJson\CreateJson\obj\Debug\net6.0\ref\CreateJson.dll

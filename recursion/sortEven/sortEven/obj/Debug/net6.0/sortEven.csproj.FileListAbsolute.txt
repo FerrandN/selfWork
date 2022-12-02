@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\sortEven\sortEven\bin\Debug\net6.0\sortEven.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\sortEven\sortEven\bin\Debug\net6.0\sortEven.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\sortEven\sortEven\bin\Debug\net6.0\sortEven.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\sortEven\sortEven\bin\Debug\net6.0\sortEven.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\sortEven\sortEven\bin\Debug\net6.0\sortEven.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\sortEven\sortEven\obj\Debug\net6.0\sortEven.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\sortEven\sortEven\obj\Debug\net6.0\sortEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\sortEven\sortEven\obj\Debug\net6.0\sortEven.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\sortEven\sortEven\obj\Debug\net6.0\sortEven.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\sortEven\sortEven\obj\Debug\net6.0\sortEven.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\sortEven\sortEven\obj\Debug\net6.0\sortEven.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\sortEven\sortEven\obj\Debug\net6.0\refint\sortEven.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\sortEven\sortEven\obj\Debug\net6.0\sortEven.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\sortEven\sortEven\obj\Debug\net6.0\sortEven.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\sortEven\sortEven\obj\Debug\net6.0\ref\sortEven.dll

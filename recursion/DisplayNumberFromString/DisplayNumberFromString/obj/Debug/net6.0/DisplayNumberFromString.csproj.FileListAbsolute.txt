@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\DisplayNumberFromString\DisplayNumberFromString\bin\Debug\net6.0\DisplayNumberFromString.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\DisplayNumberFromString\DisplayNumberFromString\bin\Debug\net6.0\DisplayNumberFromString.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\DisplayNumberFromString\DisplayNumberFromString\bin\Debug\net6.0\DisplayNumberFromString.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\DisplayNumberFromString\DisplayNumberFromString\bin\Debug\net6.0\DisplayNumberFromString.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\DisplayNumberFromString\DisplayNumberFromString\bin\Debug\net6.0\DisplayNumberFromString.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\DisplayNumberFromString\DisplayNumberFromString\obj\Debug\net6.0\DisplayNumberFromString.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\DisplayNumberFromString\DisplayNumberFromString\obj\Debug\net6.0\DisplayNumberFromString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\DisplayNumberFromString\DisplayNumberFromString\obj\Debug\net6.0\DisplayNumberFromString.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\DisplayNumberFromString\DisplayNumberFromString\obj\Debug\net6.0\DisplayNumberFromString.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\DisplayNumberFromString\DisplayNumberFromString\obj\Debug\net6.0\DisplayNumberFromString.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\DisplayNumberFromString\DisplayNumberFromString\obj\Debug\net6.0\DisplayNumberFromString.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\DisplayNumberFromString\DisplayNumberFromString\obj\Debug\net6.0\refint\DisplayNumberFromString.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\DisplayNumberFromString\DisplayNumberFromString\obj\Debug\net6.0\DisplayNumberFromString.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\DisplayNumberFromString\DisplayNumberFromString\obj\Debug\net6.0\DisplayNumberFromString.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\DisplayNumberFromString\DisplayNumberFromString\obj\Debug\net6.0\ref\DisplayNumberFromString.dll

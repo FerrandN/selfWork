@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\countDigits\countDigits\bin\Debug\net6.0\countDigits.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\countDigits\countDigits\bin\Debug\net6.0\countDigits.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\countDigits\countDigits\bin\Debug\net6.0\countDigits.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\countDigits\countDigits\bin\Debug\net6.0\countDigits.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\countDigits\countDigits\bin\Debug\net6.0\countDigits.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\countDigits\countDigits\obj\Debug\net6.0\countDigits.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\countDigits\countDigits\obj\Debug\net6.0\countDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\countDigits\countDigits\obj\Debug\net6.0\countDigits.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\countDigits\countDigits\obj\Debug\net6.0\countDigits.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\countDigits\countDigits\obj\Debug\net6.0\countDigits.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\countDigits\countDigits\obj\Debug\net6.0\countDigits.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\countDigits\countDigits\obj\Debug\net6.0\refint\countDigits.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\countDigits\countDigits\obj\Debug\net6.0\countDigits.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\countDigits\countDigits\obj\Debug\net6.0\countDigits.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\countDigits\countDigits\obj\Debug\net6.0\ref\countDigits.dll

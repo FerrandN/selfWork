@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\sérialisation_déssérialisation\sérialisation_déssérialisation\bin\Debug\net6.0\sérialisation_déssérialisation.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\sérialisation_déssérialisation\sérialisation_déssérialisation\bin\Debug\net6.0\sérialisation_déssérialisation.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\sérialisation_déssérialisation\sérialisation_déssérialisation\bin\Debug\net6.0\sérialisation_déssérialisation.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\sérialisation_déssérialisation\sérialisation_déssérialisation\bin\Debug\net6.0\sérialisation_déssérialisation.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\sérialisation_déssérialisation\sérialisation_déssérialisation\bin\Debug\net6.0\sérialisation_déssérialisation.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\sérialisation_déssérialisation\sérialisation_déssérialisation\obj\Debug\net6.0\sérialisation_déssérialisation.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\sérialisation_déssérialisation\sérialisation_déssérialisation\obj\Debug\net6.0\sérialisation_déssérialisation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\sérialisation_déssérialisation\sérialisation_déssérialisation\obj\Debug\net6.0\sérialisation_déssérialisation.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\sérialisation_déssérialisation\sérialisation_déssérialisation\obj\Debug\net6.0\sérialisation_déssérialisation.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\sérialisation_déssérialisation\sérialisation_déssérialisation\obj\Debug\net6.0\sérialisation_déssérialisation.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\sérialisation_déssérialisation\sérialisation_déssérialisation\obj\Debug\net6.0\sérialisation_déssérialisation.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\sérialisation_déssérialisation\sérialisation_déssérialisation\obj\Debug\net6.0\refint\sérialisation_déssérialisation.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\sérialisation_déssérialisation\sérialisation_déssérialisation\obj\Debug\net6.0\sérialisation_déssérialisation.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\sérialisation_déssérialisation\sérialisation_déssérialisation\obj\Debug\net6.0\sérialisation_déssérialisation.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\sérialisation_déssérialisation\sérialisation_déssérialisation\obj\Debug\net6.0\ref\sérialisation_déssérialisation.dll

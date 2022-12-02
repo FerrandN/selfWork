@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\sumOfNaturalNumber\sumOfNaturalNumber\bin\Debug\net6.0\sumOfNaturalNumber.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\sumOfNaturalNumber\sumOfNaturalNumber\bin\Debug\net6.0\sumOfNaturalNumber.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\sumOfNaturalNumber\sumOfNaturalNumber\bin\Debug\net6.0\sumOfNaturalNumber.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\sumOfNaturalNumber\sumOfNaturalNumber\bin\Debug\net6.0\sumOfNaturalNumber.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\sumOfNaturalNumber\sumOfNaturalNumber\bin\Debug\net6.0\sumOfNaturalNumber.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\sumOfNaturalNumber\sumOfNaturalNumber\obj\Debug\net6.0\sumOfNaturalNumber.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\sumOfNaturalNumber\sumOfNaturalNumber\obj\Debug\net6.0\sumOfNaturalNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\sumOfNaturalNumber\sumOfNaturalNumber\obj\Debug\net6.0\sumOfNaturalNumber.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\sumOfNaturalNumber\sumOfNaturalNumber\obj\Debug\net6.0\sumOfNaturalNumber.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\sumOfNaturalNumber\sumOfNaturalNumber\obj\Debug\net6.0\sumOfNaturalNumber.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\sumOfNaturalNumber\sumOfNaturalNumber\obj\Debug\net6.0\sumOfNaturalNumber.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\sumOfNaturalNumber\sumOfNaturalNumber\obj\Debug\net6.0\refint\sumOfNaturalNumber.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\sumOfNaturalNumber\sumOfNaturalNumber\obj\Debug\net6.0\sumOfNaturalNumber.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\sumOfNaturalNumber\sumOfNaturalNumber\obj\Debug\net6.0\sumOfNaturalNumber.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\recursion\sumOfNaturalNumber\sumOfNaturalNumber\obj\Debug\net6.0\ref\sumOfNaturalNumber.dll
