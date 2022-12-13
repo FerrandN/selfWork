@@ -1,0 +1,11 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\winformLearn\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\winformLearn\Test\Test\bin\Debug\Test.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\winformLearn\Test\Test\bin\Debug\Test.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\winformLearn\Test\Test\obj\Debug\BanqueAccount.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\winformLearn\Test\Test\obj\Debug\BanqueAccount.csproj.SuggestedBindingRedirects.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\winformLearn\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\winformLearn\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\winformLearn\Test\Test\obj\Debug\BanqueAccount.csproj.GenerateResource.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\winformLearn\Test\Test\obj\Debug\BanqueAccount.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\winformLearn\Test\Test\obj\Debug\Test.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\winformLearn\Test\Test\obj\Debug\Test.pdb
