@@ -52,6 +52,42 @@ namespace Test
 
             Account account = new Account(int.Parse(id), name, double.Parse(balance), double.Parse(overdraft));
             lyon.AddSetAccount(account);
+           
+            List<string> ls = ((List<string>)listBox1.DataSource)??new List<string>();
+
+            ls.Add(lyon.BanqueAccount[lyon.BanqueAccount.Count() - 1].owner);
+            listBox1.DataSource = new List<string>(ls);
+            
+            List<string> lis = ((List<string>)listBox2.DataSource)??new List<string>();
+
+            lis.Add(lyon.BanqueAccount[lyon.BanqueAccount.Count() - 1].ToString());
+            listBox2.DataSource = new List<string>(lis);
+
+        }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void listBox2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void TransfertMoney_Click(object sender, EventArgs e)
+        {
+            
         }
     }
 }

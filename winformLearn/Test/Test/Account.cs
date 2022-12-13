@@ -9,7 +9,7 @@ namespace Test
     internal class Account
     {
         int id;
-        string owner;
+        public string owner { get; private set; }
         double balance;
         double overdraft;
         public Account(int id, string owner, double balance, double overdraft)
@@ -72,6 +72,12 @@ namespace Test
             {
                 return false;
             }
+        }
+
+        public override string ToString()
+        {
+            return String.Format("id: {0}, owner: {1}, balance : {2}, overdraft: {3}",
+                id, owner, balance, overdraft);
         }
     }
 }

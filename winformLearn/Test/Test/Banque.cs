@@ -11,6 +11,7 @@ namespace Test
         string brand;
         string town;
         string name;
+        internal List<Account> BanqueAccount { get; set; }
         public Banque(string brand, string town, string name)
         {
             this.brand = brand;
@@ -19,7 +20,7 @@ namespace Test
             BanqueAccount = new List<Account>();
         }
 
-        internal List<Account> BanqueAccount { get; set; }
+        
 
         public void AddNewAccount()
         {
@@ -29,6 +30,16 @@ namespace Test
         public void AddSetAccount(Account account)
         {
             BanqueAccount.Add(account);
+        }
+
+        public override string ToString()
+        {
+            String str = "Compte bancaire: {";
+            foreach (Account c in BanqueAccount)
+            {
+                str += c;
+            }
+            return str;
         }
     }
 }
