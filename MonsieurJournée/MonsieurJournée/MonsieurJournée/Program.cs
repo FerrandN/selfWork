@@ -14,9 +14,15 @@ namespace MonsieurJournée
         [STAThread]
         static void Main()
         {
+            bool quit = false;
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
-        }
+
+            while (!quit)
+            {
+                
+            }
+        }   
     }
 }
