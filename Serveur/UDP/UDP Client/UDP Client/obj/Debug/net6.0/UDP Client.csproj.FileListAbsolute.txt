@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\Serveur\UDP\UDP Client\UDP Client\bin\Debug\net6.0\UDP Client.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\Serveur\UDP\UDP Client\UDP Client\bin\Debug\net6.0\UDP Client.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\Serveur\UDP\UDP Client\UDP Client\bin\Debug\net6.0\UDP Client.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\Serveur\UDP\UDP Client\UDP Client\bin\Debug\net6.0\UDP Client.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\Serveur\UDP\UDP Client\UDP Client\bin\Debug\net6.0\UDP Client.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\Serveur\UDP\UDP Client\UDP Client\obj\Debug\net6.0\UDP Client.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\Serveur\UDP\UDP Client\UDP Client\obj\Debug\net6.0\UDP Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\Serveur\UDP\UDP Client\UDP Client\obj\Debug\net6.0\UDP Client.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\Serveur\UDP\UDP Client\UDP Client\obj\Debug\net6.0\UDP Client.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\Serveur\UDP\UDP Client\UDP Client\obj\Debug\net6.0\UDP Client.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\Serveur\UDP\UDP Client\UDP Client\obj\Debug\net6.0\UDP Client.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\Serveur\UDP\UDP Client\UDP Client\obj\Debug\net6.0\refint\UDP Client.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\Serveur\UDP\UDP Client\UDP Client\obj\Debug\net6.0\UDP Client.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\Serveur\UDP\UDP Client\UDP Client\obj\Debug\net6.0\UDP Client.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\selfWork\Serveur\UDP\UDP Client\UDP Client\obj\Debug\net6.0\ref\UDP Client.dll
