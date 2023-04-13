@@ -1,0 +1,17 @@
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\UserControle\UserControle\bin\Debug\net6.0-windows\UserControle.exe
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\UserControle\UserControle\bin\Debug\net6.0-windows\UserControle.deps.json
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\UserControle\UserControle\bin\Debug\net6.0-windows\UserControle.runtimeconfig.json
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\UserControle\UserControle\bin\Debug\net6.0-windows\UserControle.dll
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\UserControle\UserControle\bin\Debug\net6.0-windows\UserControle.pdb
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\UserControle\UserControle\obj\Debug\net6.0-windows\UserControle.csproj.AssemblyReference.cache
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\UserControle\UserControle\obj\Debug\net6.0-windows\UserControle.UserControle.resources
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\UserControle\UserControle\obj\Debug\net6.0-windows\UserControle.csproj.GenerateResource.cache
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\UserControle\UserControle\obj\Debug\net6.0-windows\UserControle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\UserControle\UserControle\obj\Debug\net6.0-windows\UserControle.AssemblyInfoInputs.cache
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\UserControle\UserControle\obj\Debug\net6.0-windows\UserControle.AssemblyInfo.cs
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\UserControle\UserControle\obj\Debug\net6.0-windows\UserControle.csproj.CoreCompileInputs.cache
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\UserControle\UserControle\obj\Debug\net6.0-windows\UserControle.dll
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\UserControle\UserControle\obj\Debug\net6.0-windows\refint\UserControle.dll
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\UserControle\UserControle\obj\Debug\net6.0-windows\UserControle.pdb
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\UserControle\UserControle\obj\Debug\net6.0-windows\UserControle.genruntimeconfig.cache
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\UserControle\UserControle\obj\Debug\net6.0-windows\ref\UserControle.dll

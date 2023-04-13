@@ -1,0 +1,15 @@
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\ExpressionLambda\ExpressionLambda\ExpressionLambda\bin\Debug\net6.0\ExpressionLambda.exe
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\ExpressionLambda\ExpressionLambda\ExpressionLambda\bin\Debug\net6.0\ExpressionLambda.deps.json
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\ExpressionLambda\ExpressionLambda\ExpressionLambda\bin\Debug\net6.0\ExpressionLambda.runtimeconfig.json
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\ExpressionLambda\ExpressionLambda\ExpressionLambda\bin\Debug\net6.0\ExpressionLambda.dll
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\ExpressionLambda\ExpressionLambda\ExpressionLambda\bin\Debug\net6.0\ExpressionLambda.pdb
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\ExpressionLambda\ExpressionLambda\ExpressionLambda\obj\Debug\net6.0\ExpressionLambda.csproj.AssemblyReference.cache
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\ExpressionLambda\ExpressionLambda\ExpressionLambda\obj\Debug\net6.0\ExpressionLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\ExpressionLambda\ExpressionLambda\ExpressionLambda\obj\Debug\net6.0\ExpressionLambda.AssemblyInfoInputs.cache
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\ExpressionLambda\ExpressionLambda\ExpressionLambda\obj\Debug\net6.0\ExpressionLambda.AssemblyInfo.cs
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\ExpressionLambda\ExpressionLambda\ExpressionLambda\obj\Debug\net6.0\ExpressionLambda.csproj.CoreCompileInputs.cache
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\ExpressionLambda\ExpressionLambda\ExpressionLambda\obj\Debug\net6.0\ExpressionLambda.dll
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\ExpressionLambda\ExpressionLambda\ExpressionLambda\obj\Debug\net6.0\refint\ExpressionLambda.dll
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\ExpressionLambda\ExpressionLambda\ExpressionLambda\obj\Debug\net6.0\ExpressionLambda.pdb
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\ExpressionLambda\ExpressionLambda\ExpressionLambda\obj\Debug\net6.0\ExpressionLambda.genruntimeconfig.cache
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\ExpressionLambda\ExpressionLambda\ExpressionLambda\obj\Debug\net6.0\ref\ExpressionLambda.dll

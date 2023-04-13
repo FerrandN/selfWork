@@ -1,0 +1,14 @@
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\UserControle\ClassLibraryUserControle\bin\Debug\net6.0-windows\ClassLibraryUserControle.deps.json
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\UserControle\ClassLibraryUserControle\bin\Debug\net6.0-windows\ClassLibraryUserControle.dll
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\UserControle\ClassLibraryUserControle\bin\Debug\net6.0-windows\ClassLibraryUserControle.pdb
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\UserControle\ClassLibraryUserControle\obj\Debug\net6.0-windows\ClassLibraryUserControle.csproj.AssemblyReference.cache
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\UserControle\ClassLibraryUserControle\obj\Debug\net6.0-windows\ClassLibraryUserControle.UserControl1.resources
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\UserControle\ClassLibraryUserControle\obj\Debug\net6.0-windows\ClassLibraryUserControle.csproj.GenerateResource.cache
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\UserControle\ClassLibraryUserControle\obj\Debug\net6.0-windows\ClassLibraryUserControle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\UserControle\ClassLibraryUserControle\obj\Debug\net6.0-windows\ClassLibraryUserControle.AssemblyInfoInputs.cache
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\UserControle\ClassLibraryUserControle\obj\Debug\net6.0-windows\ClassLibraryUserControle.AssemblyInfo.cs
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\UserControle\ClassLibraryUserControle\obj\Debug\net6.0-windows\ClassLibraryUserControle.csproj.CoreCompileInputs.cache
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\UserControle\ClassLibraryUserControle\obj\Debug\net6.0-windows\ClassLibraryUserControle.dll
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\UserControle\ClassLibraryUserControle\obj\Debug\net6.0-windows\refint\ClassLibraryUserControle.dll
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\UserControle\ClassLibraryUserControle\obj\Debug\net6.0-windows\ClassLibraryUserControle.pdb
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\UserControle\ClassLibraryUserControle\obj\Debug\net6.0-windows\ref\ClassLibraryUserControle.dll
