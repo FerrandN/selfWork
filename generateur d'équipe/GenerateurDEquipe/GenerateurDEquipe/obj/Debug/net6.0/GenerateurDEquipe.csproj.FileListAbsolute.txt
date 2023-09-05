@@ -1,0 +1,14 @@
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\generateur d'équipe\GenerateurDEquipe\GenerateurDEquipe\obj\Debug\net6.0\GenerateurDEquipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\generateur d'équipe\GenerateurDEquipe\GenerateurDEquipe\obj\Debug\net6.0\GenerateurDEquipe.AssemblyInfoInputs.cache
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\generateur d'équipe\GenerateurDEquipe\GenerateurDEquipe\obj\Debug\net6.0\GenerateurDEquipe.AssemblyInfo.cs
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\generateur d'équipe\GenerateurDEquipe\GenerateurDEquipe\obj\Debug\net6.0\GenerateurDEquipe.csproj.CoreCompileInputs.cache
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\generateur d'équipe\GenerateurDEquipe\GenerateurDEquipe\bin\Debug\net6.0\GenerateurDEquipe.exe
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\generateur d'équipe\GenerateurDEquipe\GenerateurDEquipe\bin\Debug\net6.0\GenerateurDEquipe.deps.json
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\generateur d'équipe\GenerateurDEquipe\GenerateurDEquipe\bin\Debug\net6.0\GenerateurDEquipe.runtimeconfig.json
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\generateur d'équipe\GenerateurDEquipe\GenerateurDEquipe\bin\Debug\net6.0\GenerateurDEquipe.dll
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\generateur d'équipe\GenerateurDEquipe\GenerateurDEquipe\bin\Debug\net6.0\GenerateurDEquipe.pdb
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\generateur d'équipe\GenerateurDEquipe\GenerateurDEquipe\obj\Debug\net6.0\GenerateurDEquipe.dll
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\generateur d'équipe\GenerateurDEquipe\GenerateurDEquipe\obj\Debug\net6.0\refint\GenerateurDEquipe.dll
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\generateur d'équipe\GenerateurDEquipe\GenerateurDEquipe\obj\Debug\net6.0\GenerateurDEquipe.pdb
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\generateur d'équipe\GenerateurDEquipe\GenerateurDEquipe\obj\Debug\net6.0\GenerateurDEquipe.genruntimeconfig.cache
+C:\Users\nferrand\Desktop\CDA_Ex\selfWork\generateur d'équipe\GenerateurDEquipe\GenerateurDEquipe\obj\Debug\net6.0\ref\GenerateurDEquipe.dll

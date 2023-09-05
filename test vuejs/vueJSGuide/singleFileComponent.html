@@ -1,0 +1,25 @@
+<!--In most build-tool-enabled Vue projects, we author Vue components using an HTML-like file format called Single-File Component 
+    (also known as *.vue files, abbreviated as SFC). A Vue SFC, as the name suggests, encapsulates the component's logic (JavaScript), 
+    template (HTML), and styles (CSS) in a single file. Here's the previous example, written in SFC format:-->
+
+<script>
+    export default {
+      data() {
+        return {
+          count: 0
+        }
+      }
+    }
+    </script>
+    
+    <template>
+      <button @click="count++">Count is: {{ count }}</button>
+    </template>
+    
+    <style scoped>
+    button {
+      font-weight: bold;
+    }
+    </style>
+    
+    <!--https://vuejs.org/guide/introduction.html#single-file-components-->
